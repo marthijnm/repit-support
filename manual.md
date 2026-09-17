@@ -75,9 +75,9 @@ Repit starts with an exercise library and six starter templates: **Push**, **Pul
 
 Frequency and last-performed information come from completed training history. Exercise selectors used while building templates or workouts also support searching and sorting.
 
-![Exercise library](screenshots/screenshot-02-Exercise-library.png)
+<!-- > **Screenshot 02 — Exercise library:** Show a search result for a muscle group, exercise names and muscle-group descriptions, the Sort control, and the plus button for a new exercise. -->
 
-> **Screenshot 02 — Exercise library:** Show a search result for a muscle group, exercise names and muscle-group descriptions, the Sort control, and the plus button for a new exercise.
+![Exercise library](screenshots/screenshot-02-Exercise-library.png)
 
 ### Create an exercise
 

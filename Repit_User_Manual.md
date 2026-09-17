@@ -77,6 +77,8 @@ Frequency and last-performed information come from completed training history. E
 
 > **Screenshot 02 — Exercise library:** Show a search result for a muscle group, exercise names and muscle-group descriptions, the Sort control, and the plus button for a new exercise.
 
+![Exercise library](screenshots/Screenshot 02 — Exercise library.PNG)
+
 ### Create an exercise
 
 1. Tap the **plus (+)** button in **Exercises** to open **New exercise**.

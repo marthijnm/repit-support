@@ -2,11 +2,9 @@
 
 **Train. Track. Repeat.**
 
-This guide covers the user-facing features in **Repit 1.1.0 (build 1)**, based on the supplied source archive. Repit helps you plan strength workouts, record sets, review your training history, and follow exercise progress.
+This guide covers the user-facing features in **Repit 1.1.0**. Repit helps you plan strength workouts, record sets, review your training history, and follow exercise progress.
 
 Button and menu names appear in **bold**. Some controls display an icon instead of text; this guide identifies both where helpful.
-
-> **Screenshot placeholders:** Each numbered blockquote describes an image to insert. Replace it with a Markdown image, for example `![Today screen with workout templates](screenshots/01-today.png)`, after taking the screenshot. Use sample training data and avoid showing personal notes or file locations.
 
 ## Contents
 
@@ -88,7 +86,9 @@ Frequency and last-performed information come from completed training history. E
 5. Optionally enter **Notes**, such as a machine setting or a reminder you want to see during workouts.
 6. Tap **Save**.
 
-> **Screenshot 03 — New exercise:** Show a sample exercise name, the selected primary muscle group, selected secondary groups, a short equipment-setting note, and Save.
+<!-- > **Screenshot 03 — New exercise:** Show a sample exercise name, the selected primary muscle group, selected secondary groups, a short equipment-setting note, and Save. -->
+
+![New exercise](screenshots/screenshot-03-New-exercise.png)
 
 ### Edit an exercise and its notes
 

@@ -208,7 +208,10 @@ Open an exercise's **Exercise actions** menu to:
 
 Replacement and removal are available only when the exercise has no completed sets. If a set was completed accidentally, reopen it first. The replacement picker groups exercises with the same primary muscle group above other options. Replacing an exercise replaces its set values too.
 
-> **Screenshot 07 — Exercise actions and replacement:** Show the actions menu for an exercise with no completed sets, including Replace exercise and Remove from workout. Add a second image of the replacement picker showing Same primary muscle group and Other exercises.
+<!-- > **Screenshot 07 — Exercise actions and replacement:** Show the actions menu for an exercise with no completed sets, including Replace exercise and Remove from workout. Add a second image of the replacement picker showing Same primary muscle group and Other exercises. -->
+![Exercise actions](screenshots/screenshot-07a-Exercise-actions-and-replacement.png)
+
+![Exercise replacement](screenshots/screenshot-07b-Exercise-actions-and-replacement.png)
 
 ### Show notes and hide completed exercises
 

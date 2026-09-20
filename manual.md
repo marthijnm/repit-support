@@ -237,7 +237,10 @@ Only one rest timer runs at a time. Completing or canceling its workout stops it
 
 When prompted, allow notifications if you want a **Rest finished** alert while the app is in the background. In the foreground, the timer provides sound and haptic feedback where supported. Notification delivery and sound depend on your device settings.
 
-> **Screenshot 08 — Rest timer:** Use two images: the duration-selection panel with Custom, and a running countdown showing the −10 sec, Skip, and +10 sec controls.
+<!-- > **Screenshot 08 — Rest timer:** Use two images: the duration-selection panel with Custom, and a running countdown showing the −10 sec, Skip, and +10 sec controls. -->
+![Rest timer](screenshots/screenshot-08a-Rest-timer.png)
+
+![Rest timer](screenshots/screenshot-08b-Rest-timer.png)
 
 ## 6. Complete or cancel a workout
 

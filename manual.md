@@ -457,7 +457,7 @@ Backups contain your exercise library, templates, completed workouts (including 
 When importing settings, the backup's weight unit, self-assessment preference, and hide-completed preference are applied.
 
 <!-- > **Screenshot 17 — Import preview:** Show source version/export information, addition and replacement counts, Import settings with its listed preferences, and Import backup and Cancel. -->
-![Settings](screenshots/screenshot-17-Import-preview.png)
+![Import preview](screenshots/screenshot-17-Import-preview.png)
 
 ### Understand what an import replaces
 
@@ -488,7 +488,9 @@ A recovery copy is an internal snapshot made before importing or restoring data.
 
 If you see **No recovery copies**, no copies are available yet. Use **Import data** if you have an exported backup file instead. Internal recovery copies should not be your only backup, because they are stored with the app's local files.
 
-> **Screenshot 18 — Recovery workflow:** Show the recovery-copy list and the selected copy's Restore copy screen. Include the warning that restoration replaces current data and the final Replace current data confirmation.
+<!-- > **Screenshot 18 — Recovery workflow:** Show the recovery-copy list and the selected copy's Restore copy screen. Include the warning that restoration replaces current data and the final Replace current data confirmation. -->
+
+<!-- Hier heb ik geen screenshot van. -->
 
 ## 12. Troubleshooting and support
 
@@ -525,4 +527,5 @@ Support email: **madebymarthijn@icloud.com**.
 
 When reporting an issue, include the app version, the action you were taking, the exact error message, and whether it concerns a live workout, completed history, or a backup. Share a screenshot if it helps explain the issue, with personal information removed.
 
-> **Screenshot 19 — About and support:** Show the About panel with the Repit name, version/build details, and Email Support button.
+<!-- > **Screenshot 19 — About and support:** Show the About panel with the Repit name, version/build details, and Email Support button. -->
+![About and support](screenshots/screenshot-19-About-and-support.png)

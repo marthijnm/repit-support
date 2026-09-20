@@ -377,7 +377,10 @@ The summary metrics refer to the selected range:
 
 One performance can show a value, but more completed workouts are needed to show a trend. Changing the date range changes the summary metrics.
 
-> **Screenshot 14 — Exercise progress:** Show a named exercise, the date-range control, Current/Best/Trend values, and a chart with several performances and one selected point's date/value visible.
+<!-- > **Screenshot 14 — Exercise progress:** Show a named exercise, the date-range control, Current/Best/Trend values, and a chart with several performances and one selected point's date/value visible. -->
+![Exercise progress](screenshots/screenshot-14a-Exercise-progress.png)
+
+![Exercise progress](screenshots/screenshot-14b-Exercise-progress.png)
 
 ### Understand estimated 1RM and comparison badges
 

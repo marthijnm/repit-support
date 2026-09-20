@@ -426,7 +426,8 @@ In **Settings**, enable or disable **Show self-assessment when completing a work
 
 During an active workout, open **Workout actions → Hide completed exercises**. This remembered preference hides exercises once all their sets are completed. Use the same menu to turn it off again.
 
-> **Screenshot 16 — Settings:** Show Weight unit, the self-assessment toggle, all three Backup actions, and About Repit.
+<!-- > **Screenshot 16 — Settings:** Show Weight unit, the self-assessment toggle, all three Backup actions, and About Repit. -->
+![Settings](screenshots/screenshot-16-Settings.png)
 
 ## 11. Back up, import, and recover your data
 
@@ -455,7 +456,8 @@ Backups contain your exercise library, templates, completed workouts (including 
 
 When importing settings, the backup's weight unit, self-assessment preference, and hide-completed preference are applied.
 
-> **Screenshot 17 — Import preview:** Show source version/export information, addition and replacement counts, Import settings with its listed preferences, and Import backup and Cancel.
+<!-- > **Screenshot 17 — Import preview:** Show source version/export information, addition and replacement counts, Import settings with its listed preferences, and Import backup and Cancel. -->
+![Settings](screenshots/screenshot-17-Import-preview.png)
 
 ### Understand what an import replaces
 

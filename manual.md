@@ -37,7 +37,10 @@ Use the five tabs at the bottom of the app:
 
 Repit starts with an exercise library and six starter templates: **Push**, **Pull**, **Legs**, **Upper Body**, **Lower Body**, and **Full Body**. You can adapt these to your own routine.
 
-> **Screenshot 01 — Today and navigation:** Show Today before starting a workout, with several starter template cards, their exercise/set counts, and all five bottom tabs visible. If needed, use a second image to show **Start empty workout** below the cards.
+<!-- > **Screenshot 01 — Today and navigation:** Show Today before starting a workout, with several starter template cards, their exercise/set counts, and all five bottom tabs visible. If needed, use a second image to show **Start empty workout** below the cards. -->
+![Today and navigatin](screenshots/screenshot-01a-Today-and-navigatino.png)
+
+![Today and navigatin](screenshots/screenshot-01b-Today-and-navigatino.png)
 
 ### Log your first workout
 

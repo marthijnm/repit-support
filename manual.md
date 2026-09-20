@@ -297,7 +297,8 @@ Canceling removes all data for that active workout, including completed sets, an
 
 The list shows workouts for the displayed month. Calendar weeks follow your device's calendar and locale.
 
-> **Screenshot 11 — History:** Show a month with several marked workout dates, the month-navigation controls, workout rows with duration information, and the Insights and plus icons.
+<!-- > **Screenshot 11 — History:** Show a month with several marked workout dates, the month-navigation controls, workout rows with duration information, and the Insights and plus icons. -->
+![History](screenshots/screenshot-11-History.png)
 
 ### Correct reps or weight in a saved workout
 
@@ -310,7 +311,8 @@ Repit saves the correction and recalculates affected estimated 1RM values, perso
 
 The completed-workout screen supports corrections to existing set reps and weights. It does not provide a general editor for the workout's date, exercise list, number of sets, or saved self-assessment.
 
-> **Screenshot 12 — Completed workout:** Show the workout's date and times, a saved assessment, and an exercise with its estimated 1RM and tappable reps/weight values. Include the delete control if visible.
+<!-- > **Screenshot 12 — Completed workout:** Show the workout's date and times, a saved assessment, and an exercise with its estimated 1RM and tappable reps/weight values. Include the delete control if visible. -->
+![Completed workout](screenshots/screenshot-12-Completed-workout.png)
 
 ### Delete a completed workout
 
@@ -338,7 +340,8 @@ The date cannot be in the future or already contain another workout, including a
 
 Tap **Cancel** to leave without saving the draft.
 
-> **Screenshot 13 — Manual workout entry:** Show Date, Start time, End time, the selected Template, an optional assessment, and the beginning of the loaded exercise list with Save visible.
+<!-- > **Screenshot 13 — Manual workout entry:** Show Date, Start time, End time, the selected Template, an optional assessment, and the beginning of the loaded exercise list with Save visible. -->
+![Manual workout entry](screenshots/screenshot-13-Manual-workout-entry.png)
 
 ## 9. Follow records and progress
 

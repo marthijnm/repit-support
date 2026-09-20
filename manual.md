@@ -275,7 +275,8 @@ If **Show self-assessment when completing a workout** is enabled in Settings, yo
 
 Tap **Save assessment and complete**, or choose **Complete without assessment**. **Back** returns without completing the workout. Saved condition ratings contribute to the Condition history chart in Insights.
 
-> **Screenshot 10 — Self-assessment:** Show the five condition faces, exertion slider, a short sample note, and both completion choices.
+<!-- > **Screenshot 10 — Self-assessment:** Show the five condition faces, exertion slider, a short sample note, and both completion choices. -->
+![Self assessment](screenshots/screenshot-10-Self-assessment.png)
 
 ### Cancel the workout
 

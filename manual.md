@@ -261,7 +261,9 @@ When prompted, allow notifications if you want a **Rest finished** alert while t
 
 > **Note:** Choose “Mark unfinished sets as completed” only when the listed sets reflect what you performed. Keeping unused suggested sets would affect your training statistics.
 
-> **Screenshot 09 — Unfinished sets:** Show the completion prompt with both save choices and Continue workout. Use a sample workout with at least one completed and one unfinished set so all choices are visible.
+<!-- > **Screenshot 09 — Unfinished sets:** Show the completion prompt with both save choices and Continue workout. Use a sample workout with at least one completed and one unfinished set so all choices are visible. -->
+![Unfinished sets](screenshots/screenshot-09-Unfinished-sets.png)
+
 
 ### Save a self-assessment
 

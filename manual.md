@@ -126,7 +126,10 @@ A template is a reusable plan containing an ordered list of exercises and their 
 
 New exercises added to a template start with three sets of 12 reps at zero weight. Update them to match your plan. A template requires a name and at least one exercise.
 
-> **Screenshot 04 — Template editor:** Show a named template with two exercises, numbered set rows, reps and weight values, Add set, Add exercise, Reorder exercises, and Save. Two images may be used if these controls do not fit together.
+<!-- > **Screenshot 04 — Template editor:** Show a named template with two exercises, numbered set rows, reps and weight values, Add set, Add exercise, Reorder exercises, and Save. Two images may be used if these controls do not fit together. -->
+![Template editor](screenshots/screenshot-04a-Template-editor.png)
+
+![Template editor](screenshots/screenshot-04b-Template-editor.png)
 
 ### Edit or delete a template
 

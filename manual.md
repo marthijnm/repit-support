@@ -173,9 +173,11 @@ Each exercise contains numbered set rows with **Reps**, **Weight**, and a comple
 
 Weight adjustments offer steps of **1**, **1.25**, **2.5**, and **5** in your selected unit. Exact weight input accepts a decimal point or comma and up to two decimal places, such as `12.5` or `12,50`. Enter numbers without a unit suffix or thousands separator. Zero weight is allowed; negative weights are not.
 
-> **Screenshot 05 — Active workout:** Show an exercise with the Previous, Reps, and Weight columns, one completed set and one unfinished set, Add set, the exercise actions menu icon, and the timer control.
+<!-- > **Screenshot 05 — Active workout:** Show an exercise with the Previous, Reps, and Weight columns, one completed set and one unfinished set, Add set, the exercise actions menu icon, and the timer control. -->
+![Active workout](screenshots/screenshot-05-Active-workout.png)
 
-> **Screenshot 06 — Adjust weight:** Show the current weight, the four adjustment step controls, an example in Exact weight, and the Done and Cancel controls.
+<!-- > **Screenshot 06 — Adjust weight:** Show the current weight, the four adjustment step controls, an example in Exact weight, and the Done and Cancel controls. -->
+![Adjust weight](screenshots/screenshot-06-Adjust-weight.png)
 
 ### Mark sets completed or reopen them
 

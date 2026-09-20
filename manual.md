@@ -408,9 +408,9 @@ Tap the information icon to read the metric definitions. Weeks follow the device
 **Condition history** uses only workouts with a saved self-assessment. Workouts without an assessment still count toward training consistency. Tap or drag on the charts to inspect their values. Add further rated workouts to build a condition trend.
 
 <!-- > **Screenshot 15 — Insights:** Show the selected date range, the training-consistency metrics and chart, and the condition-history chart with sample ratings. Use two images if needed for readable labels. -->
-![Insights](screenshots/screenshot-15a-Active-Insights.png)
+![Insights](screenshots/screenshot-15a-Insights.png)
 
-![Insights](screenshots/screenshot-15b-Active-Insights.png)
+![Insights](screenshots/screenshot-15b-Insights.png)
 
 ## 10. Adjust your preferences
 

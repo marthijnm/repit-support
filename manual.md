@@ -2,7 +2,7 @@
 
 **Train. Track. Repeat.**
 
-This guide covers the user-facing features in **Repit 1.1.0**. Repit helps you plan strength workouts, record sets, review your training history, and follow exercise progress.
+This guide covers the user-facing features in **Repit 1.2.0**. Repit helps you plan strength workouts, record sets, review your training history, and follow exercise progress.
 
 Button and menu names appear in **bold**. Some controls display an icon instead of text; this guide identifies both where helpful.
 
@@ -89,6 +89,8 @@ Frequency and last-performed information come from completed training history. E
 5. Optionally enter **Notes**, such as a machine setting or a reminder you want to see during workouts.
 6. Tap **Save**.
 
+You can also create an exercise directly while editing a template. See [Create a missing exercise while editing a template](#create-a-missing-exercise-while-editing-a-template).
+
 <!-- > **Screenshot 03 — New exercise:** Show a sample exercise name, the selected primary muscle group, selected secondary groups, a short equipment-setting note, and Save. -->
 
 ![New exercise](screenshots/screenshot-03-New-exercise.png)
@@ -116,15 +118,32 @@ A template is a reusable plan containing an ordered list of exercises and their 
 
 1. Open **Templates** and tap **plus (+)** for **New template**.
 2. Enter a template name.
-3. Tap **Add exercise** and choose an exercise.
-4. Repeat for the other exercises in your plan.
-5. Set the reps and weight for each planned set by tapping the corresponding value and confirming the adjustment with **Done**.
-6. Use **Add set** for extra sets. A new set copies the preceding set's values.
-7. Swipe a set row to reveal its delete control if you want fewer sets. At least one set must remain for each exercise.
-8. Use **Reorder exercises** and drag the rows into your preferred order, then return to the editor.
-9. Tap **Save**.
+3. Tap **Add exercise**.
+4. Choose an existing exercise, or use **Create new exercise** if the exercise you need is not yet in your library.
+5. Repeat for the other exercises in your plan.
+6. Set the reps and weight for each planned set by tapping the corresponding value and confirming the adjustment with **Done**.
+7. Use **Add set** for extra sets. A new set copies the preceding set's values.
+8. Swipe a set row to reveal its delete control if you want fewer sets. At least one set must remain for each exercise.
+9. Use **Reorder exercises** and drag the rows into your preferred order, then return to the editor.
+10. Tap **Save**.
 
 New exercises added to a template start with three sets of 12 reps at zero weight. Update them to match your plan. A template requires a name and at least one exercise.
+
+### Create a missing exercise while editing a template
+
+You do not need to leave an unfinished template when the exercise you want is not yet in your library.
+
+1. In the template editor, tap **Add exercise**.
+2. Search the existing exercise library first.
+3. Tap **Create new exercise** to open the exercise form.
+4. If you entered at least three characters in the search field, the action includes that text—for example, **Create exercise “Pendulum”**. Repit uses it as the initial exercise name.
+5. Review and complete the name. A partial search term remains fully editable, so you can change “Pendulum” to “Pendulum Squat”.
+6. Choose the **Primary muscle group** and optionally add secondary muscle groups and notes.
+7. Tap **Save**.
+
+After saving, Repit adds the new exercise to your exercise library, selects it for the template, and returns you to the template editor. Its planned sets start with three sets of 12 reps at zero weight, just like any other exercise newly added to a template.
+
+The exercise is saved independently of the template. If you later cancel the template editor without saving the template, the newly created exercise remains available in your exercise library.
 
 <!-- > **Screenshot 04 — Template editor:** Show a named template with two exercises, numbered set rows, reps and weight values, Add set, Add exercise, Reorder exercises, and Save. Two images may be used if these controls do not fit together. -->
 ![Template editor](screenshots/screenshot-04a-Template-editor.png)
@@ -235,6 +254,8 @@ The rest timer is available while a workout is active. Start it yourself when yo
 
 Only one rest timer runs at a time. Completing or canceling its workout stops it. Closing the timer panel or leaving the app does not pause its countdown.
 
+When the rest period finishes or you tap **Skip**, the timer panel closes automatically and returns you to the workout.
+
 When prompted, allow notifications if you want a **Rest finished** alert while the app is in the background. In the foreground, the timer provides sound and haptic feedback where supported. Notification delivery and sound depend on your device settings.
 
 <!-- > **Screenshot 08 — Rest timer:** Use two images: the duration-selection panel with Custom, and a running countdown showing the −10 sec, Skip, and +10 sec controls. -->
@@ -263,7 +284,6 @@ When prompted, allow notifications if you want a **Rest finished** alert while t
 
 <!-- > **Screenshot 09 — Unfinished sets:** Show the completion prompt with both save choices and Continue workout. Use a sample workout with at least one completed and one unfinished set so all choices are visible. -->
 ![Unfinished sets](screenshots/screenshot-09-Unfinished-sets.png)
-
 
 ### Save a self-assessment
 
@@ -501,6 +521,7 @@ If you see **No recovery copies**, no copies are available yet. Use **Import dat
 | My suggested sets differ from the template. | Repit uses the exercise's latest completed sets first. Adjust the suggestions for the current session. |
 | A completed exercise disappeared. | Turn off **Hide completed exercises** in the active workout's **Workout actions** menu. |
 | I cannot add the same exercise again. | Each exercise can appear only once. Add sets to the existing entry. |
+| I cannot find the exercise I need while editing a template. | Open **Add exercise** and tap **Create new exercise**. If you searched using at least three characters, Repit prefills that text as an editable exercise name. |
 | Replace or remove is unavailable for an exercise. | The exercise has completed sets. Reopen sets marked by mistake before using these actions. |
 | I cannot delete an exercise from the library. | It is referenced by a template, active workout, or completed history. Repit protects those references. |
 | An exact weight is rejected. | Use a nonnegative number with at most two decimals, no unit suffix, and no thousands separator. Stay within the displayed limit. |
